@@ -1,0 +1,121 @@
+
+  .centrarimagen{
+    display:block;
+    margin-left: auto;  
+    margin-right:auto;
+    width:25%;       
+
+    }
+  img{
+    padding: 82px 0px 25px;
+  }
+  ul {
+   list-style-type: none;
+   overflow: hidden;
+   }
+  li {
+  float: right;
+   }
+   .linksnavbar {
+   display: block;
+   text-align: center;
+   padding: 8px 4px;
+   font-style:normal ;
+   font-size: 13px;
+   color: rgba(0,0,0,0.87);
+   text-decoration-line: none;
+   }
+   .linksnavbar:hover{
+    text-decoration-line:underline
+
+   }
+  .search_{
+    margin-bottom: 20px;
+    display:block;
+    margin-left: auto;  
+    margin-right:auto;
+    width:35%;   
+    border-radius: 24px;
+    padding:11px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(223, 225, 229);
+  
+  }
+  button{
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin:10px;
+    border-radius:4px;
+    padding: 9px 4px;
+    background-color: aliceblue;
+    border-color:aliceblue;
+    border-bottom-color: aliceblue;
+    border-left-color:aliceblue;
+    border-style:solid;
+  }
+  button:hover{
+    border-color:rgba(105, 161, 209, 0.644);
+
+  }
+  .otroidiomagoogle{
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+  }
+  .googleeningles{
+    text-decoration-line: none;
+  }
+  .googleeningles:hover{
+    text-decoration-line:underline
+  }
+  footer {
+  position: fixed;
+  left:0;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(242, 242, 242);
+  color: rgb(88, 88, 88);
+  font-size:15px;
+  
+  border-color: rgb(218, 220, 224);
+  border-style: solid;
+  border-width: 1px;
+  
+
+ }
+ .argentinaborde{
+   text-align: left;
+   margin-left: 0px;
+   border-color: rgb(242, 242, 242);
+   border-bottom-color: rgb(218, 220, 224);
+   
+   border-style:solid;
+   border-width: 1px;
+   
+ }
+ .Argentina{
+   
+   padding-left: 27px;
+   
+ }
+ 
+ .Ultimabarra{
+   text-decoration-line: none;
+   color: rgb(88, 88, 88);
+   font-size: 14px;
+ }
+ .Ultimabarra:hover{
+  text-decoration-line:underline;
+  margin: 40px;
+ }
+.orientarizquierda{
+ float:left;
+ padding: 10px 0px 10px 27px;
+
+}
+.orientarderecha{
+  float:right;
+ 
+  padding: 10px 27px 10px 0px;
+}
